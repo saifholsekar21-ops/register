@@ -1,0 +1,11 @@
+{
+  "description": "KAVORYN SiteShield — security monitoring and website protection platform",
+  "domain": "owns.it.com",
+  "subdomain": "kavoryn",
+  "owner": {
+    "repo": "https://github.com/saifholsekar21-ops/kavoryn-siteshield",
+    "email": "saifholsekar21@gmail.com"
+  },
+  "record": {},
+  "proxied": false
+}
